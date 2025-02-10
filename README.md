@@ -34,15 +34,6 @@ https://github.com/user-attachments/assets/3120f0d1-0ce8-44d1-83c1-c3bb8ed27640
 ### Vehicle Exit
 ![Exit Image](https://github.com/user-attachments/assets/38fb5dc8-c075-4ea6-aacc-fe756549522b)
 
-## Contributing
-
-Contributions are welcome If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
-
-## Contact
-
-- Email: [dhruvkushwaha83@gmail.com](mailto:dhruvkushwaha83@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/dhruv-kushwaha/](https://www.linkedin.com/in/dhruv-kushwaha/)
-
 ## Note
 This is our **Minor Project**, where we aim to develop a system that will **automatically calculate parking charges** based on the duration of vehicle parking and perform **real time monitoring of parking lot** .  
 
@@ -73,3 +64,12 @@ This is our **Minor Project**, where we aim to develop a system that will **auto
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e334f204-62bd-4772-91b3-6e97cfd3670d" style="width:50%;" alt="Certificte-of-Indexing">
 </p>
+
+## Contributing
+
+Contributions are welcome If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+
+## Contact
+
+- Email: [dhruvkushwaha83@gmail.com](mailto:dhruvkushwaha83@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/dhruv-kushwaha/](https://www.linkedin.com/in/dhruv-kushwaha/)
