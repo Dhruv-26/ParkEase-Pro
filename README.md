@@ -16,6 +16,11 @@ ParkEase Pro can address these challenges by automating the parking process and 
   <img src="https://github.com/user-attachments/assets/169585ce-af0c-4d0d-91e7-5f5e524077de" width="500" height="700" alt="Flow-Chart">
 </p>
 
+## 🛠️ Tech Stack  
+- **Programming Languages:** Python `3.11.3` , SQL  
+- **Python Libraries:** OpenCV, Pickle, NumPy, PIL, Tkinter  
+- **IDE:** PyCharm
+
 ## Demo Video
 https://github.com/user-attachments/assets/2573cea9-5400-426c-9df0-26912f46b6b1
 
@@ -23,10 +28,10 @@ https://github.com/user-attachments/assets/2573cea9-5400-426c-9df0-26912f46b6b1
 https://github.com/user-attachments/assets/3120f0d1-0ce8-44d1-83c1-c3bb8ed27640
 
 ## Screenshots
-### Vehical Entry
+### Vehicle Entry
 ![Entry Image](https://github.com/user-attachments/assets/2e4e5f76-d0d9-4945-9f65-450d19b04939)
 
-### Vehical Exit
+### Vehicle Exit
 ![Exit Image](https://github.com/user-attachments/assets/38fb5dc8-c075-4ea6-aacc-fe756549522b)
 
 ## Contributing
@@ -41,18 +46,30 @@ Contributions are welcome If you have any suggestions or find any issues, please
 ## Note
 This is our **Minor Project**, where we aim to develop a system that will **automatically calculate parking charges** based on the duration of vehicle parking and perform **real time monitoring of parking lot** .  
 
-## 📅 Project Timeline  
-- **Start Date:** 10th March 2023  
-
-## 🛠️ Tech Stack  
-- **Programming Languages:** Python `3.11.3` , SQL  
-- **Python Libraries:** OpenCV, Pickle, NumPy, PIL, Tkinter  
-- **IDE:** PyCharm  
-
 ## 👨‍💻 Project Members  
 - [Dhruv Kumar](https://github.com/Dhruv-26)  
 - [Rachit Sharma](https://github.com/developer-rachit)  
 - [Naveen Chandra](https://github.com/Nc-upadhyay)
+  
+## Research Paper
+[ParkEasePro_research_paper.pdf](https://github.com/user-attachments/files/18730177/ParkEasePro_research_paper.pdf)
 
-1)pip install Pillow OR pip install PIL -> use for installing pil or pillow package which use for showing images.
+## PowerPoint Presentation
+[ParkEasePro.pptx](https://github.com/user-attachments/files/18730517/ParkEasePro.pptx)
 
+## Certificates
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f5fd5b6-f44c-4e5d-8f7e-9ca838eb0ab0" style="width:50%;" alt="Dhruv-Kumar">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/116e3564-7c57-4e20-aa85-7aea4f8617f4" style="width:50%;" alt="Rachit-Sharma">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a2b9aa0-3062-4ed1-8655-54b0eb57366a" style="width:50%;" alt="Naveen-Chandra">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e334f204-62bd-4772-91b3-6e97cfd3670d" style="width:50%;" alt="Certificte-of-Indexing">
+</p>
