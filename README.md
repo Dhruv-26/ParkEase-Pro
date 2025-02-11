@@ -1,4 +1,4 @@
-# ParkEase Pro
+# ParkEase Pro 
 
 ParkEase Pro is an AI-powered smart parking system designed to streamline parking management. It automatically calculates parking fees using ANPR technology to detect vehicle number plates, track entry-exit times, and determine parking duration-based charges. The system provides real-time monitoring, detects cars using AI, and identifies empty parking spots to ensure a hassle-free experience for users. By displaying occupied and available slots, it reduces manual errors and makes the parking process more efficient and accurate.
 
